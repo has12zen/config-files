@@ -1,0 +1,13 @@
+configuration {
+
+	modi: "drun";
+	width: 25;
+	show-icons: true;
+	icon-theme: "papirus";
+	lines: 10;
+	location: 0;
+    separator-style: "solid";
+	fake-transparency: true;
+	sidebar-mode: true;
+	theme: "~/.config/rofi/awesome.rasi";
+}
